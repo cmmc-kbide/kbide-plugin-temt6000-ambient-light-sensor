@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-temt6000-ambient-light-sensor",
+  "title": "temt6000-ambient-light-sensor",
+  "keywords": "temt6000-ambient-light-sensor, esp32, esp8266, arduino",
+  "description": "temt6000-ambient-light-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-temt6000-ambient-light-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-temt6000-ambient-light-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
